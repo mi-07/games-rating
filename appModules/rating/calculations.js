@@ -12,4 +12,4 @@ function updateRating(array, id, rating) {
   return array;
 }
 
-export { createRating, updateRating };
+module.exports = { createRating, updateRating };
