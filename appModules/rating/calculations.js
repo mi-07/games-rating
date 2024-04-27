@@ -12,8 +12,4 @@ function updateRating(array, id, rating) {
   return array;
 }
 
-<<<<<<< HEAD
-export { createRating, updateRating };
-=======
 module.exports = { createRating, updateRating };
->>>>>>> fddce225dd00d32de356d84e21b1654a25562258
